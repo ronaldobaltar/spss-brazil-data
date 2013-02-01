@@ -1,5 +1,6 @@
 DATA LIST
-    FILE = "C:\PR\Pessoas\Amostra_Pessoas_41.txt"
+  COMMENT Change the file path bellow to correspond to your own path.
+  FILE = "C:\PR\Pessoas\Amostra_Pessoas_41.txt"
     / V0001 1-2 (A)
     V0002 3-7 (A)
     V0011 8-20 (A)
