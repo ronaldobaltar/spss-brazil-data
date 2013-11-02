@@ -1,7 +1,7 @@
 spss-brazil-data
 ================
 
-Code in SPSS syntax to import Brazilian government microdata
+SPSS syntax code to import IBGE Censo 2010 (Brazilian census microdata).
 
 	Infosoc
 		Laboratório de Sociologia Computacional
